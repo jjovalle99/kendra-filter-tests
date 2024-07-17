@@ -1,0 +1,14 @@
+{
+    "AccessControlList": [
+        {
+            "Name": "researchers",
+            "Type": "GROUP",
+            "Access": "ALLOW"
+        },
+        {
+            "Name": "public",
+            "Type": "GROUP",
+            "Access": "DENY"
+        }
+    ]
+}
